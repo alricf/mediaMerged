@@ -1,0 +1,3 @@
+- A user can build a media page so that they can present knowledge gathered by digital media from other media sites.
+- A user can share their media page with a link so that they can keep their followers updated about a certain topic.
+- A user can see a web feed of other media pages so they can get informed on topics they are interested in created by creators they might want to subscribe to.
